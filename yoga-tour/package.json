@@ -1,0 +1,30 @@
+{
+  "name": "project5",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "babel-loader": "^8.0.6",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkhanko/Tabs-Timer-Modal-box.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkhanko/Tabs-Timer-Modal-box/issues"
+  },
+  "homepage": "https://github.com/alexkhanko/Tabs-Timer-Modal-box#readme",
+  "description": ""
+}
